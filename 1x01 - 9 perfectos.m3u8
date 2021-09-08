@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=477482,RESOLUTION=640x360,FRAME-RATE=30.000,CODECS="avc1.64081e,mp4a.40.2"
+https://www31.sbcdnvideo.com/hls/tysxestkk666j6cdac5b5sksgyynjts36itrrfvchdal4cegrmudxjbibafq/index-v1-a1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1383590,RESOLUTION=1280x720,FRAME-RATE=30.000,CODECS="avc1.64081f,mp4a.40.2"
+https://www31.sbcdnvideo.com/hls/tysxestkk666j6cdac5b5sksgyynjts36itrrfvchzll6cegrmunyflmozqa/index-v1-a1.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=43464,RESOLUTION=640x360,CODECS="avc1.64081e",URI="https://www31.sbcdnvideo.com/hls/tysxestkk666j6cdac5b5sksgyynjts36itrrfvchdal4cegrmudxjbibafq/iframes-v1-a1.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=116697,RESOLUTION=1280x720,CODECS="avc1.64081f",URI="https://www31.sbcdnvideo.com/hls/tysxestkk666j6cdac5b5sksgyynjts36itrrfvchzll6cegrmunyflmozqa/iframes-v1-a1.m3u8"
